@@ -1,5 +1,9 @@
 # 【 文具購物網站 】
 
+後端部分Spring Boot框架GitHub頁面
+
+[前往前端GitHub頁面](https://github.com/gsbka7/store-frontend/)
+
 ## 1. 介紹
 
 購物車功能網站
@@ -8,19 +12,25 @@
 
 ### 前端：
 
-・ BootStrap 5
+・ Vue CLI
 
-・ JQuery
+・ BootstrapVue
 
-・ Ajax
+・ Axios
 
 ### 後端：
 
 ・ Spring Boot
 
+・ MySQL
+
 ・ Mybatis
 
-・ MySQL
+・ Nginx
+
+### 其他：
+
+・ Docker
 
 ## 2. 功能
 
@@ -36,11 +46,15 @@
 
 ## 3. 部署
 
-#### [https://store-spring-boot.onrender.com/](https://store-spring-boot.onrender.com/)
+#### [https://store-frontend.fly.dev/](https://store-frontend.fly.dev/)
 
-> 部署於 [render](https://render.com/) 平台，開啟時請求速度較慢
+> 部署於 [fly.io](https://fly.io/) 平台
 
-> 資料庫建立於 [db4free](https://www.db4free.net/) ，請求速度較慢，如「商品一覽」需等待後才能顯示
+伺服器沒有收到請求，幾分鐘後後將會停止運作，開啟網站時需等待伺服器重新運作
+
+> 資料庫建立於 [db4free](https://www.db4free.net/)
+
+請求速度可能較慢，如「商品一覽」需稍作等待後才能顯示出來、商品加入購物車時需要幾秒才會顯示「已加入購物車」
 
 #### 測試帳號
 

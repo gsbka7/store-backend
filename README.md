@@ -38,6 +38,6 @@
 
 >商品一覽
 
-[https://store-backend.fly.dev/](https://store-backend.fly.dev/)
+[https://store-backend.fly.dev/products/list](https://store-backend.fly.dev/products/list)
 
 

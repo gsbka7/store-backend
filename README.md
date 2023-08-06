@@ -24,7 +24,7 @@
 
 ## 3. 部署
 
-#### [https://store-backend.fly.dev](https://store-backend.fly.dev)
+#### [https://store-backend.fly.dev/](https://store-backend.fly.dev/)
 
 > 部署於 [fly.io](https://fly.io/) 平台
 
